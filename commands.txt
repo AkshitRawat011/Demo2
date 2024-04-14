@@ -4,4 +4,6 @@ for coming out : cd ..
 if some modification or making file so we should add and commit them: git add file_name or git add .
 git commit -m "msg"
 push repo from local to remote repo
-git push origin main
+git push origin main (origin is default repo from where we get clone)
+making new folder : mkdir name_folder
+make new git repository: git init
