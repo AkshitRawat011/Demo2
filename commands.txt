@@ -1,0 +1,7 @@
+firstly form clone using git clone https://...............
+for going to particylar folder : cd folder_name
+for coming out : cd ..
+if some modification or making file so we should add and commit them: git add file_name or git add .
+git commit -m "msg"
+push repo from local to remote repo
+git push origin main
